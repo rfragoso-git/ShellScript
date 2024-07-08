@@ -1,0 +1,48 @@
+<link rel="alternate" type="application/rss+xml" Feed para SPACE TODAY - NASA, Space X, Exploração Espacial e Notícias Astronômicas em Português &raquo;" https://spacetoday.com.br/feed/" />
+<link rel="alternate" type="application/rss+xml" Feed de comentários para SPACE TODAY - NASA, Space X, Exploração Espacial e Notícias Astronômicas em Português &raquo;" https://spacetoday.com.br/comments/feed/" />
+<link rel="https://api.w.org/" https://spacetoday.com.br/wp-json/" /><link rel="alternate" type="application/json" href="https://spacetoday.com.br/wp-json/wp/v2/pages/72697" /><link rel="EditURI" type="application/rsd+xml" RSD" href="https://spacetoday.com.br/xmlrpc.php?rsd" />
+<a class="fa-item-image" https://spacetoday.com.br/james-webb-descobre-exoplaneta-congelado-na-zona-habitavel-de-uma-estrela/" James Webb Descobre Exoplaneta Congelado Na Zona Habitável De Uma Estrela">
+<a class="fa-item-image" https://spacetoday.com.br/james-webb-estuda-exoplaneta-que-tem-atmosfera-que-cheira-ovo-fedido/" James Webb Estuda Exoplaneta Que Tem Atmosfera Que Cheira Ovo Podre">
+<a class="fa-item-image" https://spacetoday.com.br/hipotese-dos-cryptoterrestrials-civilizacoes-avancadas-na-terra-em-eras-geologicas-passadas/" Hipótese dos Cryptoterrestrials: Civilizações Avançadas na Terra em Eras Geológicas Passadas">
+<a class="fa-item-image" https://spacetoday.com.br/astronomos-mapeiam-halo-de-materia-escura-da-via-lactea/" Astrônomos Mapeiam Halo de Matéria Escura da Via Láctea">
+<a class="fa-item-image" https://spacetoday.com.br/james-webb-estuda-quasar-no-inicio-do-universo/" James Webb Estuda Quasar No Início do Universo">
+<a https://spacetoday.com.br/james-webb-descobre-exoplaneta-congelado-na-zona-habitavel-de-uma-estrela/" James Webb Descobre Exoplaneta Congelado Na Zona Habitável De Uma Estrela"   "85858">
+<a https://spacetoday.com.br/james-webb-estuda-exoplaneta-que-tem-atmosfera-que-cheira-ovo-fedido/" James Webb Estuda Exoplaneta Que Tem Atmosfera Que Cheira Ovo Podre"   "85851">
+<a https://spacetoday.com.br/hipotese-dos-cryptoterrestrials-civilizacoes-avancadas-na-terra-em-eras-geologicas-passadas/" Hipótese dos Cryptoterrestrials: Civilizações Avançadas na Terra em Eras Geológicas Passadas"   "85844">
+<a https://spacetoday.com.br/astronomos-mapeiam-halo-de-materia-escura-da-via-lactea/" Astrônomos Mapeiam Halo de Matéria Escura da Via Láctea"   "85837">
+<a https://spacetoday.com.br/james-webb-estuda-quasar-no-inicio-do-universo/" James Webb Estuda Quasar No Início do Universo"   "85819">
+<a https://spacetoday.com.br/ariane-6-europa-prepara-lancamento-inaugural-apos-anos-de-atrasos/" Ariane 6: Europa Prepara Lançamento Inaugural Após Anos de Atrasos"   "85825">
+<a https://spacetoday.com.br/james-webb-descobre-exoplaneta-congelado-na-zona-habitavel-de-uma-estrela/" James Webb Descobre Exoplaneta Congelado Na Zona Habitável De Uma Estrela"   "85858">
+<a https://spacetoday.com.br/james-webb-estuda-exoplaneta-que-tem-atmosfera-que-cheira-ovo-fedido/" James Webb Estuda Exoplaneta Que Tem Atmosfera Que Cheira Ovo Podre"   "85851">
+<a https://spacetoday.com.br/james-webb-estuda-quasar-no-inicio-do-universo/" James Webb Estuda Quasar No Início do Universo"   "85819">
+<a https://spacetoday.com.br/telescopio-james-webb-descobre-quimica-rica-em-hidrocarbonetos-em-estrela-jovem/" Telescópio James Webb Descobre Química Rica em Hidrocarbonetos em Estrela Jovem"   "85597">
+<a https://spacetoday.com.br/james-webb-descobriu-a-supernova-do-tipo-ia-mais-ditante-do-universo/" James Webb Descobriu A Supernova do Tipo Ia Mais Ditante Do Universo"   "85590">
+<a https://spacetoday.com.br/rover-perseverance-coletou-amostras-da-atmosfera-marciana-e-agora/" Rover Perseverance Coletou Amostras da Atmosfera Marciana, E Agora?"   "85698">
+<a https://spacetoday.com.br/rover-perseverance-da-nasa-descobre-popcorn-rocks-em-marte-indicando-presenca-de-agua/" Rover Perseverance da NASA Descobre &#8216;Popcorn Rocks&#8217; em Marte, Indicando Presença de Água"   "85645">
+<a https://spacetoday.com.br/o-comportamento-de-marte-durante-a-grande-explosao-solar-de-maio-de-2024/" O Comportamento de Marte Durante A Grande Explosão Solar de Maio de 2024"   "85536">
+<a https://spacetoday.com.br/rover-perseverance-cruza-leito-antigo-de-rio-em-marte-e-segue-atras-de-alvo-cientifico/" Rover Perseverance Cruza Leito Antigo de Rio Em Marte E Segue Atrás de Alvo Científico"   "85501">
+<a https://spacetoday.com.br/nasa-da-adeus-ao-helicoptero-ingenuity/" NASA Dá Adeus Ao Helicóptero Ingenuity"   "84828">
+<a https://spacetoday.com.br/starship-pode-dominar-tudo-e-ter-grande-impacto-nos-foguetes-menores/" Starship Pode Dominar Tudo E Ter Grande Impacto Nos Foguetes Menores"   "84547">
+<a https://spacetoday.com.br/astronautas-da-nasa-testam-elevador-que-sera-usado-no-pouso-da-lua/" Astronautas da NASA Testam Elevador Que Será Usado no Pouso da Lua"   "84272">
+<a https://spacetoday.com.br/saiu-o-relatorio-da-faa-spacex-precisa-fazer-63-correcoes-para-voar-o-starship/" Saiu o Relatório da FAA &#8211; SpaceX Precisa Fazer 63 Correções Para Voar o Starship"   "82908">
+<a https://spacetoday.com.br/elon-musk-fala-das-grandes-atualizacoes-do-starship/" Elon Musk Fala Das Grandes Atualizações do Starship"   "81752">
+<a https://spacetoday.com.br/atualizacoes-sobre-o-proximo-voo-do-starship/" Atualizações Sobre O Próximo Voo do Starship"   "81218">
+<a https://spacetoday.com.br/lancamento-do-foguete-japones-h3-missao-daichi-4/" LANÇAMENTO DO FOGUETE JAPONÊS H3 &#8211; MISSÃO DAICHI-4"   "85763">
+<a https://spacetoday.com.br/missao-insight-da-nasa-mostra-que-marte-e-bombardeado-por-asteroides/" MISSÃO INSIGHT DA NASA MOSTRA QUE MARTE É BOMBARDEADO POR ASTEROIDES"   "85765">
+<a https://spacetoday.com.br/lancamento-falcon-9-missao-starlink-group-10-3/" LANÇAMENTO FALCON 9 &#8211; MISSÃO STARLINK GROUP 10-3"   "85754">
+<a https://spacetoday.com.br/lancamento-falcon-heavy-missao-goes-u/" LANÇAMENTO FALCON HEAVY &#8211; MISSÃO GOES-U"   "85742">
+<a https://spacetoday.com.br/retorno-das-amostras-do-lado-oculto-da-lua-o-fim-da-missao-change-6/" RETORNO DAS AMOSTRAS DO LADO OCULTO DA LUA &#8211; O FIM DA MISSÃO CHANG&#8217;E-6"   "85740">
+<a https://spacetoday.com.br/james-webb-descobre-aglomerados-estelares-no-inicio-do-universo/" JAMES WEBB DESCOBRE AGLOMERADOS ESTELARES NO INÍCIO DO UNIVERSO"   "85738">
+<a https://spacetoday.com.br/horizonte-de-eventos-episodio-18-a-missao-apollo-5/" Horizonte de Eventos &#8211; Episódio 18 &#8211; A Missão Apollo 5"   "72373">
+<a https://spacetoday.com.br/horizonte-de-eventos-episodio-17-a-historia-da-agua-na-lua/" Horizonte de Eventos &#8211; Episódio 17 &#8211; A História da Água na Lua"   "72312">
+<a https://spacetoday.com.br/horizonte-de-eventos-episodio-16-a-nova-historia-da-via-lactea/" Horizonte de Eventos &#8211; Episódio 16 &#8211; A Nova História da Via Láctea"   "72245">
+<a https://spacetoday.com.br/james-webb-descobre-exoplaneta-congelado-na-zona-habitavel-de-uma-estrela/" James Webb Descobre Exoplaneta Congelado Na Zona Habitável De Uma Estrela"   "85858">
+<a https://spacetoday.com.br/james-webb-estuda-exoplaneta-que-tem-atmosfera-que-cheira-ovo-fedido/" James Webb Estuda Exoplaneta Que Tem Atmosfera Que Cheira Ovo Podre"   "85851">
+<a https://spacetoday.com.br/hipotese-dos-cryptoterrestrials-civilizacoes-avancadas-na-terra-em-eras-geologicas-passadas/" Hipótese dos Cryptoterrestrials: Civilizações Avançadas na Terra em Eras Geológicas Passadas"   "85844">
+<a https://spacetoday.com.br/astronomos-mapeiam-halo-de-materia-escura-da-via-lactea/" Astrônomos Mapeiam Halo de Matéria Escura da Via Láctea"   "85837">
+<a https://spacetoday.com.br/james-webb-estuda-quasar-no-inicio-do-universo/" James Webb Estuda Quasar No Início do Universo"   "85819">
+<a https://spacetoday.com.br/ariane-6-europa-prepara-lancamento-inaugural-apos-anos-de-atrasos/" Ariane 6: Europa Prepara Lançamento Inaugural Após Anos de Atrasos"   "85825">
+<a https://spacetoday.com.br/as-supernovas-e-as-novas-evidencias-da-dilatacao-do-tempo/" AS SUPERNOVAS E AS NOVAS EVIDÊNCIAS DA DILATAÇÃO DO TEMPO"   "85821">
+<a https://spacetoday.com.br/james-webb-e-o-fascinante-processo-de-formacao-de-estrelas-no-universo/" JAMES WEBB E O FASCINANTE PROCESSO DE FORMAÇÃO DE ESTRELAS NO UNIVERSO"   "85817">
+<a https://spacetoday.com.br/projeto-inovador-quer-colocar-varios-satelites-para-explorar-asteroides/" Projeto Inovador Quer Colocar Vários Satélites Para Explorar Asteroides"   "85810">
+<a https://spacetoday.com.br/nasa-prepara-capsula-orion-para-a-missao-artemis-ii/" NASA Prepara Cápsula Orion Para A Missão Artemis II"   "85802">

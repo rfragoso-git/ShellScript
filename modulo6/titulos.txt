@@ -1,30 +1,30 @@
-Kubuntu Focus announce the Focus Ir14 GEN 2 and Ir16 GEN 2 laptops
-IPFire Linux Firewall Gets Experimental Btrfs Support, Intel RFDS Mitigations
-How to Install NodeBB with Nginx Proxy on Debian 12
-How Apache Spark lit up the tech world and outshone its big data brethren
-Firefox tips and tricks for creatives
-Fwupd 1.9.21 Introduces Support for Synaptics Carrera Devices
-Create Desktop Shortcut for AppImage in Linux (3 Methods)
-X.Org Testing Ground Toolkit: Making It Less Difficult To Compile The X Server In 2024
-LibrePlanet 2024 and the Lost Video/Audio of Talks
-Canonical Announce First RISC-V Laptop Running Ubuntu
-Fixed Wine: could not load kernel32.dll Error in Linux
-Databricks Open Sources Unity Catalog to Help Manage AI Models and Data
-Version 256 of systemd boasts '42% less Unix philosophy'
-KDE Gear 24.05.1 Improves Elisa, Spectacle, KCalc, and Other KDE Apps
-How To Find Files Containing Specific Text Using Grep And Ripgrep In Linux
-OIN expands Linux patent protection yet again (but not to AI)
-ICOP Enhances NX8MM-35 SBC for Industrial Applications with Updated LVDS & HDMI Interfaces
-Proton 9.0-2 brings better controller support in launchers, more playable games, lots of bug fixes
-How to Set Up UFW Firewall on Ubuntu 24.04
-Mission Center: A Linux Alternative to Windows Task Manager
-VMware revenue plunges $600 million, but Broadcom assures investors growth plan is on track
-FreeBSD Community Survey Confirms ZFS Is Their Most Valued Server Feature
-8devices Carambola 3 Wi-Fi Module Now Includes OpenWrt Upstream Support
-Proton 9.0-2 Enhances Performance and Stability Across Dozens of Games
-Proton 9.0-2 Brings Support for Alpha League, Helldivers 2, and Other Games
-Safety-Critical Rust Consortium Announced
-Google borrows from Android to make ChromeOS better
-How to Upgrade to openSUSE Leap 15.6 from Leap 15.5
-Valve faces a £656 million lawsuit in the UK for 'overcharging 14 million PC gamers'
-Bash Scripting: Understanding the Use of Parentheses, Brackets, and Braces
+FreeBSD 14.1 vs. DragonFlyBSD 6.4 vs. NetBSD 10 vs. Linux Benchmarks
+Diamond Linux-TT – desktop Linux distribution based on Debian
+Let's take a look at Oracle's love and hate relationship with open source software
+Cinnamon 6.2 Desktop Environment Released, Here’s What’s New
+How to Run a Linux Desktop Using the Windows Subsystem for Linux
+Final Curtain for Debian 10, Users Urged to Upgrade
+PineTab2: A Linux Tablet Featuring Rockchip RK3566 SoC and DanctNix Arch Linux
+Wine Staging 9.11 Released With A Patch For A 17 Year Old Bug Report
+Best Free and Open Source Alternatives to Google Chrome Remote Desktop
+Killer Bean looks absolutely nuts in the latest trailer
+SparkyLinux 7.4 'Orion Belt' update rolls out: Here’s what's new
+New Linux Change Helps Ensure AMD Ryzen With NVMe Works After Resuming From Suspend
+DietPi June 2024 News (Version 9.5)
+How to Install Packages from Fedora’s COPR Repositories
+Blueboat – multi-tenant serverless JavaScript runtime
+A Smokescreen for Brad Smith
+Getting Started with Salt IT Automation Framework on AlmaLinux 9
+Prince of Persia The Lost Crown gets a Steam release in August
+Wine 9.11 Released With More Monitor DPI Awareness Improvements
+How to Install Python 3.13 (Beta) on Ubuntu and Other Linux Distros
+Wine 9.11 Debuts with Enhanced ARM Support
+IBASE Launches IB200: 2.5? Compact SBC with AMD Ryzen for Edge Computing
+Ubuntu’s App Center Now Finally Supports Installation of Local DEB Packages
+How to Install Fathom Privacy Focused Web Analytics on Ubuntu
+Best Free and Open Source Alternatives to Google Charts
+Ubuntu is Finally Adding DEB Installer Support to App Center
+LibreOffice 24.8 Beta Now Available For Testing This Free Software Office Suite
+Oracle's love and hate relationship with open source software
+Immich 1.106.1 Brings Similar Image Detection Feature
+These Linux Tools Increased My Command-Line Productivity: Here’s How
