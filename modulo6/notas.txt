@@ -1,0 +1,22 @@
+### Expressões regulares
+
+^ circunflexo representa o começo, ^x exemplo tudo que começar com a letra x
+
+$ cifrão representa o final da frase, final da linha exemplo que termina com a letra x$
+
+^[bc] tudo que começar com BC
+
+[cd]$ tudo que terminar com CD
+
+^[^lh] tudo que comece, mas que NÃO seja lh
+
+
+### Expressões extendidas EGREP
+
+grep -E "^.{50,}$" /etc/passwd ## Filtrar qualquer coisa, dizendo que no meio tem que ter 50 digitos na linha
+
+egrep "^s.{50,}$" /etc/passwd ## Filtrar qualquer coisa, que começa com a letra S dizendo que no meio { , } tem que ter 50 digitos na linha
+
+grep -E "^.{50,60}$" /etc/passwd ## Que contenha entre 50 a 60 digitos
+
+egrep "fragoso|root" /etc/passwd ## Operador OR | 

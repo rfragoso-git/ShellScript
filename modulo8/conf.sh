@@ -7,7 +7,7 @@ ARQUIVO_CONFIG="configuracao.cf"
 USAR_CORES=
 USAR_MAIUSCULAS=
 MENSAGEM="Mensagem de teste !!!"
-
+AMARELO="\033[33;1m"
 VERDE="\033[32;1m"
 AZUL="\033[34;1m"
 RESET="\033[0m"
@@ -41,8 +41,12 @@ do
   DefinirParametros "$linha"
 done < "$ARQUIVO_CONFIG"
 
+[ "$USAR_MAIUSCULAS" = "1" ] && MENSAGEM="$(echo -e $MENSAGEM | tr [a-z] [A-Z])"
+[ "$USAR_CORES" = "1" ] && MENSAGEM="$(echo -e ${AMARELO}$MENSAGEM)"
 
 echo "VALOR USAR_CORES: $USAR_CORES"
 echo "VALOR USAR_MAIUSCULAS: $USAR_MAIUSCULAS"
+
+echo $MENSAGEM
 
 # ------------------------------------------------------------------------ #
