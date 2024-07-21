@@ -36,7 +36,7 @@ VERMELHO="\033[31;1m"
 # ------------------------------------------------------------------------ #
 
 # ------------------------------- EXECUÇÃO ----------------------------------------- #
-lynx -source https://spacetoday.com.br | grep title= | sed 's/title="//;s/href="//;s/class=""//;s/data-id=//' > titulos-spacetoday.txt
+lynx -source https://spacetoday.com.br | egrep "entry-title" | sed 's/body.*}//' | sed 's/<h2.*\/">//' | sed 's/<.*2>//' > titulos-spacetoday.txt
 
 while read -r titulo_spacetoday
 do
