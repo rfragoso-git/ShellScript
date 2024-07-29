@@ -24,10 +24,12 @@ RESET="\033[0m"
   DefinirParametros () {
     local parametro="$(echo $1 | cut -d = -f 1)"
     local valor="$(echo $1 | cut -d = -f 2)"
+    local cor="$(echo $1 | cut -d = -f 2)"
 
     case "$parametro" in
       USAR_CORES) USAR_CORES="$valor"   ;;
       USAR_MAIUSCULAS) USAR_MAIUSCULAS="$valor" ;;
+      QUAL_COR)QUAL_COR="$cor" ;;
     esac
   }
 
@@ -42,10 +44,11 @@ do
 done < "$ARQUIVO_CONFIG"
 
 [ "$USAR_MAIUSCULAS" = "1" ] && MENSAGEM="$(echo -e $MENSAGEM | tr [a-z] [A-Z])"
-[ "$USAR_CORES" = "1" ] && MENSAGEM="$(echo -e ${AMARELO}$MENSAGEM)"
+[ "$USAR_CORES" = "1" ] && MENSAGEM="$(echo -e ${QUAL_COR}$MENSAGEM)"
 
 echo "VALOR USAR_CORES: $USAR_CORES"
 echo "VALOR USAR_MAIUSCULAS: $USAR_MAIUSCULAS"
+echo "QUAL_COR: $QUAL_COR"
 
 echo $MENSAGEM
 

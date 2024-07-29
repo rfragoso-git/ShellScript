@@ -2,7 +2,7 @@
 USAR_CORES=1
 
 # 0 desativado, 1 ativado
-USAR_MAIUSCULAS=0
+USAR_MAIUSCULAS=1
 
-
-
+# cor AMARELO=2, VERDE=3, AZUL=1, RESET=5
+QUAL_COR=1

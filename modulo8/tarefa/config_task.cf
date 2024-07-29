@@ -1,0 +1,8 @@
+# 0 desativado, 1 ativado
+USAR_CORES=1
+
+# 0 desativado, 1 ativado
+USAR_MAIUSCULAS=0
+
+# cor AMARELO=2, VERDE=3, CIANO=1, VERMELHO=4
+QUAL_COR=2

@@ -1,0 +1,8 @@
+\e[30m: Preto
+\e[31m: Vermelho
+\e[32m: Verde
+\e[33m: Amarelo
+\e[34m: Azul
+\e[35m: Magenta
+\e[36m: Ciano
+\e[37m: Branco
